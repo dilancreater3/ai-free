@@ -1,0 +1,11 @@
+{
+  "name": "ai-free-video-studio",
+  "version": "0.2.0",
+  "private": true,
+  "description": "AI Free bilingual video creator - Vercel deployment starter",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "engines": { "node": ">=20" }
+}
