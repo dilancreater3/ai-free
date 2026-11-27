@@ -1,11 +1,9 @@
 {
-  "name": "ai-free-video-studio",
-  "version": "0.2.0",
+  "name": "ai-free-gemini-script-generator",
+  "version": "0.3.0",
   "private": true,
-  "description": "AI Free bilingual video creator - Vercel deployment starter",
-  "scripts": {
-    "dev": "vercel dev",
-    "deploy": "vercel --prod"
-  },
-  "engines": { "node": ">=20" }
+  "description": "AI Free bilingual video script generator with server-side Gemini integration",
+  "engines": {
+    "node": ">=20"
+  }
 }
